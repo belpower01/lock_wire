@@ -1,0 +1,13 @@
+{
+  "name": "lock_wire",
+  "version": "1.0.0",
+  "description": "One-wire open/close packets from Arduino Nano to ATtiny, with two checksums",
+  "keywords": "attiny, nano, onewire, lock, checksum",
+  "headers": "lock_wire.h",
+  "platforms": "*",
+  "frameworks": "*",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/belpower01/lock_wire.git"
+  }
+}
